@@ -7,6 +7,7 @@ import java.util.Arrays;
  * <p>
  * absMax([0, 5, 1, 11]) = 11, absMax([3 , -10, -2]) = -10
  * </p>
+ *取绝对值最大的整数
  */
 public class AbsoluteMax {
     public static void main(String[] args) {
